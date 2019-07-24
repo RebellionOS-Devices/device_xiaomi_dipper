@@ -4,9 +4,9 @@
     "target_path": "device/xiaomi/sdm845-common"
   }, 
   {
-    "repository": "engrchachi/packages_apps_WallpapersBReel2018",
+    "repository": "packages_apps_WallpapersBReel2018",
     "target_path": "packages/apps/WallpapersBReel2018",
     "branch": "pie",
-    "remote": "github"
+    "remote": "pixel-gitlab"
   }
 ]
